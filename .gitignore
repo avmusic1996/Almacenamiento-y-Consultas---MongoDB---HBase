@@ -1,0 +1,4 @@
+WiredTiger*
+mongod.lock
+*.lock
+/data/
